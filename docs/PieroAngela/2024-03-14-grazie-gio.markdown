@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: page
+title: "maledetto gio"
 date:   2024-03-14 13:12:56 +0100
 categories: jekyll update
 ---
